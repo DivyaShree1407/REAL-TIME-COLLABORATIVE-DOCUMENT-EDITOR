@@ -87,3 +87,7 @@ Open-Source Development: Contributors write and edit documentation in real time.
 
 Creative Work: Writers, designers, and marketers use these tools for brainstorming and content creation.
 
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/2481c3c2-9635-48c6-bdb1-c82716df771c)
+
