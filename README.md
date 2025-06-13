@@ -89,5 +89,5 @@ Creative Work: Writers, designers, and marketers use these tools for brainstormi
 
 OUTPUT : 
 
-![Image](https://github.com/user-attachments/assets/2481c3c2-9635-48c6-bdb1-c82716df771c)
+
 
